@@ -29,6 +29,15 @@ form {
   margin-bottom: 30px;
 }
 
+a {
+  color: aliceblue;
+}
+
+.container {
+  margin: 120px auto;
+  max-width: 600px;
+}
+
 .instructions {
   padding: 16px;
   border: 1px solid rgba(red, green, blue, alpha);
